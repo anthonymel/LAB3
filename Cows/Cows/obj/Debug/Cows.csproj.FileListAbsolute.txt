@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cows\Cows\bin\Debug\Cows.exe.config
+C:\Users\User\source\repos\Cows\Cows\bin\Debug\Cows.exe
+C:\Users\User\source\repos\Cows\Cows\bin\Debug\Cows.pdb
+C:\Users\User\source\repos\Cows\Cows\obj\Debug\Cows.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Cows\Cows\obj\Debug\Cows.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cows\Cows\obj\Debug\Cows.exe
+C:\Users\User\source\repos\Cows\Cows\obj\Debug\Cows.pdb
+F:\Cows\Cows\bin\Debug\Cows.exe.config
+F:\Cows\Cows\bin\Debug\Cows.exe
+F:\Cows\Cows\bin\Debug\Cows.pdb
+F:\Cows\Cows\obj\Debug\Cows.csprojResolveAssemblyReference.cache
+F:\Cows\Cows\obj\Debug\Cows.csproj.CoreCompileInputs.cache
+F:\Cows\Cows\obj\Debug\Cows.exe
+F:\Cows\Cows\obj\Debug\Cows.pdb
